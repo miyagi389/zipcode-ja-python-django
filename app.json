@@ -1,0 +1,8 @@
+{
+  "name": "zipcode-ja-python-django",
+  "description": "Japan ZIP Code search API server.",
+  "image": "heroku/python",
+  "repository": "https://github.com/miyagi389/zipcode-ja-python-django.git",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}

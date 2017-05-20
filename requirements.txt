@@ -1,0 +1,22 @@
+# Django
+Django==1.11.1
+django-environ==0.4.3
+django-model-utils==3.0
+gunicorn==19.7.1
+whitenoise==3.3.0
+
+## RESTFull API and OAuth Server
+djangorestframework==3.6.3
+djangorestframework-jsonp==1.0.2
+djangorestframework-xml==1.3.0
+django-rest-swagger==2.0.7
+django-oauth-toolkit==0.11.0
+
+pytz==2017.2
+
+## For the persistance stores
+psycopg2==2.7.1
+
+# app: zip
+zenhan==0.5.2
+requests==2.14.2
