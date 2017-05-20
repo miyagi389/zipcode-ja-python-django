@@ -1,9 +1,6 @@
 Deploy the app (Production)
 ====
 
-ローカルマシン上に軽量な開発用ウェブサーバを立ち上げて開発環境を構築する手順を記述する。
-
-
 ```
 heroku create
 
